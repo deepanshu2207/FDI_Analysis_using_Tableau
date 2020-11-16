@@ -1,5 +1,7 @@
 # FDI_Analysis_using_Tableau
 
+Tableau Link: https://public.tableau.com/profile/deepanshu5166#!/vizhome/FDI_16054692709510/Story1?publish=yes
+
 In this Tableau Project, I have taken a FDI (Foreign Direct Investment) dataset and analyzed it from the perspective that the companies want to see in which sector it will be a beneficial idea to start the work so that the company can collaborate with FDI player and become successful.
 
 Queries solved:
